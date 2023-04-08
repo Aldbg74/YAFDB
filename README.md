@@ -1,3 +1,3 @@
-<h1>Yet Another Fucking Discord Boot</h1>
+<h1>Yet Another Fucking Discord Bot</h1>
 
-Yet Another Fucking Discord Boot, is a Discord boot project
+Yet Another Fucking Discord Boot, is a Discord bot project
