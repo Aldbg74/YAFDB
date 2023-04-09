@@ -4,10 +4,11 @@ const client = new Client({
       GatewayIntentBits.Guilds,
   ]
 })
+var bot = new Discord.Client ();
 
 client.on ("Message"), message => {
 if (message.content === "ping") {
 message.reply ("pong");
 }
-client.login ("MTA5NDE2MjY5MzQ5MTAwNzUwOQ.GGq8TQ.j9tOKjECcl-6HZt5gbTgmOSkb32A51VBsjwDjw");
+client.login ("FuckingToken");
 };
